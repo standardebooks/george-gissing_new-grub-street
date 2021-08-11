@@ -55,7 +55,9 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1709</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/newgrubstreetnov01gissuoft</dc:source>
+		<dc:source>https://archive.org/details/newgrubstreetnov02gissuoft</dc:source>
+		<dc:source>https://archive.org/details/newgrubstreetnov03gissuoft</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
