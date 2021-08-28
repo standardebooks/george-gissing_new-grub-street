@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/george-gissing/new-grub-street</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-08-28T17:57:31Z</dc:date>
+		<meta property="dcterms:modified">2021-08-28T17:57:31Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -55,9 +55,12 @@
 		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">52</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A group of writers try to hold on to artistic merit in the face of abject poverty in the quickly-changing literary and social landscape of Victorian London.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Grub Street is the name of a former street in London synonymous with pulp writers and low-quality publishers. &lt;i&gt;New Grub Street&lt;/i&gt; takes its name from that old street, as it follows the lives and endeavors of a group of writers active in the literary scene of 1880s London.&lt;/p&gt;
+			&lt;p&gt;Edwin Reardon is a quiet and intelligent writer whose artistic sensibilities are the opposite of what the London public wants to read. He’s forced to write long, unsuccessful novels that he thinks pop publishers will want to buy. These novels are draining to write, yet result in meager sales; soon Edwin’s increasingly small bank account, and his stubborn pride, start to put a strain on his once-happy marriage.&lt;/p&gt;
+			&lt;p&gt;His best friend, Biffen, lies to one side of Edwin’s nature: as another highly-educated writer, he accepts a dingy, lonely, and hungry life of abject poverty in exchange for being able to produce a novel that’s true to his artistic desires but is unlikely to sell. On the other side lies Jasper Milvain, an “alarmingly modern” writer laser-focused on earning as much money as possible no matter what he’s made to write, as floats through the same literary circles that Edwin haunts.&lt;/p&gt;
+			&lt;p&gt;The intricately-told tale follows these writers as their differing outlooks and their fluctuating rank in society affects them and the people around them. &lt;a href="https://standardebooks.org/ebooks/george-gissing"&gt;Gissing&lt;/a&gt;, himself a prolific writer intimately familiar with the London literary scene, draws from his own life in laying out the characters and events in the novel. He carefully elaborates the fragile social fabric of the literary world, its paupers and its barons both equal in the industry but unequal in public life. Though the novel is about writers on the face, the deep thread that runs through it all is the brutality of the modern social structure, where the greedy and superficial are rewarded with stability and riches, while the delicate and thoughtful are condemned to live on the margins of respectable society in grimy poverty.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1709</dc:source>
@@ -65,8 +68,8 @@
 		<dc:source>https://archive.org/details/newgrubstreetnov02gissuoft</dc:source>
 		<dc:source>https://archive.org/details/newgrubstreetnov03gissuoft</dc:source>
 		<meta property="se:production-notes">The PG transcription was divided into parts, but the print edition does not have those divisions so they were removed.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">189912</meta>
+		<meta property="se:reading-ease.flesch">73.88</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/New_Grub_Street</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-gissing_new-grub-street</meta>
 		<dc:creator id="author">George Gissing</dc:creator>
