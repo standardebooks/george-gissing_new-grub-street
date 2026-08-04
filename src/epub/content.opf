@@ -55,7 +55,7 @@
 		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<meta property="group-position" refines="#collection-2">52</meta>
-		<dc:abstract>A group of writers try to hold on to artistic merit in the face of abject poverty in the quickly changing literary and social landscape of Victorian London.</dc:abstract>
+		<meta property="schema:abstract">A group of writers try to hold on to artistic merit in the face of abject poverty in the quickly changing literary and social landscape of Victorian London.</meta>
 		<dc:description>
 			&lt;p&gt;Grub Street is the name of a former street in London synonymous with pulp writers and low-quality publishers. &lt;i&gt;New Grub Street&lt;/i&gt; takes its name from that old street, as it follows the lives and endeavors of a group of writers active in the literary scene of 1880s London.&lt;/p&gt;
 			&lt;p&gt;Edwin Reardon is a quiet and intelligent writer whose artistic sensibilities are the opposite of what the London public wants to read. He’s forced to write long, joyless novels that he thinks pop publishers will want to buy. These novels are draining to write, yet result in meager sales; soon Edwin’s increasingly small bank account, and his stubborn pride, start to put a strain on his once-happy marriage.&lt;/p&gt;
